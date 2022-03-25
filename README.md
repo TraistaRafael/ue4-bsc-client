@@ -8,7 +8,7 @@ This UE4 project proves BSC balance query by wallet and token address. The proje
  2. Unreal Engine (I used 4.27)
  
  ## Demo
- 1. Launch `C:\Projects\ue4-bsc-client\unreal\BSCWallet\BSCWallet.uproject`
+ 1. Launch `ue4-bsc-client\unreal\BSCWallet\BSCWallet.uproject`
  2. Play & Test
 
 
