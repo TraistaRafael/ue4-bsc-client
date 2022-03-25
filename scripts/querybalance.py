@@ -1,13 +1,11 @@
 import argparse
 import json
 import requests
-import sys
 from web3 import Web3
 
 ADDRESS_LENGTH = 42
 BSC_URL = "https://bsc-dataseed.binance.org/"
 ETH_URL = "https://api.bscscan.com/api"
-
 
 def QueryBalance(wallet, token):
     try:
